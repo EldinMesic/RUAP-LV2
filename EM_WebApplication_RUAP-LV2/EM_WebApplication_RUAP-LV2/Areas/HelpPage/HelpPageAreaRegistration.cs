@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
+namespace ContactManager.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

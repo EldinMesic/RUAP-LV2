@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
+namespace ContactManager.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

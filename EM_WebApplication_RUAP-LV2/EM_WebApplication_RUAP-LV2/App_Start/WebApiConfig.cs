@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace EM_WebApplication_RUAP_LV2
+namespace ContactManager
 {
     public static class WebApiConfig
     {
