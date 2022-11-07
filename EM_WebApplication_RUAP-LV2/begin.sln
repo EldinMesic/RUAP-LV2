@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM_WebApplication_RUAP-LV2", "EM_WebApplication_RUAP-LV2\EM_WebApplication_RUAP-LV2.csproj", "{506A0AFB-D01C-4A39-A515-B02B80A1906B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager", "EM_WebApplication_RUAP-LV2\ContactManager.csproj", "{506A0AFB-D01C-4A39-A515-B02B80A1906B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
