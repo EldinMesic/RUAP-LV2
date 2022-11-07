@@ -13,7 +13,7 @@ using System.Web.Http.Description;
 using System.Xml.Linq;
 using Newtonsoft.Json;
 
-namespace ContactManager.Areas.HelpPage
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
 {
     /// <summary>
     /// This class will generate the samples for the help page.

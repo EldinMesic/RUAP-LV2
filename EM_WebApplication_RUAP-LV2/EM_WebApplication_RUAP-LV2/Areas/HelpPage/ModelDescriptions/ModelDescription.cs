@@ -1,6 +1,6 @@
 using System;
 
-namespace ContactManager.Areas.HelpPage.ModelDescriptions
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

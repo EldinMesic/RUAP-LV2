@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace ContactManager
+namespace EM_WebApplication_RUAP_LV2
 {
     public class RouteConfig
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ContactManager.Controllers
+namespace EM_WebApplication_RUAP_LV2.Controllers
 {
     public class HomeController : Controller
     {

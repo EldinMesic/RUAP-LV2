@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace ContactManager.Areas.HelpPage.ModelDescriptions
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Net.Http.Headers;
 
-namespace ContactManager.Areas.HelpPage
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
 {
     /// <summary>
     /// This is used to identify the place where the sample should be applied.

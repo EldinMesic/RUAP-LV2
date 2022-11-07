@@ -16,7 +16,7 @@ using System.Web.Http;
 using System.Web.Http.OData;
 #endif
 
-namespace ContactManager.Areas.HelpPage
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
 {
     /// <summary>
     /// Use this class to customize the Help Page.

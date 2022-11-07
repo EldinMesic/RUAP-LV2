@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using ContactManager.Areas.HelpPage.ModelDescriptions;
-using ContactManager.Areas.HelpPage.Models;
+using EM_WebApplication_RUAP_LV2.Areas.HelpPage.ModelDescriptions;
+using EM_WebApplication_RUAP_LV2.Areas.HelpPage.Models;
 
-namespace ContactManager.Areas.HelpPage.Controllers
+namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.
