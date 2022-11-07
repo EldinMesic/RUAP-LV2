@@ -7,7 +7,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace EM_WebApplication_RUAP_LV2
+namespace ContactManager
 {
     public class WebApiApplication : System.Web.HttpApplication
     {

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using EM_WebApplication_RUAP_LV2.Models;
+using ContactManager.Models;
 
-namespace EM_WebApplication_RUAP_LV2.Services
+namespace ContactManager.Services
 {
     public class ContactRepository
     {

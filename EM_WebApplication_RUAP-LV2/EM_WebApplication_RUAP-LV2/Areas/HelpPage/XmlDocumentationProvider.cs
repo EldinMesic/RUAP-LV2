@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using EM_WebApplication_RUAP_LV2.Areas.HelpPage.ModelDescriptions;
+using ContactManager.Areas.HelpPage.ModelDescriptions;
 
-namespace EM_WebApplication_RUAP_LV2.Areas.HelpPage
+namespace ContactManager.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

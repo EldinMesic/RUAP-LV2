@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace EM_WebApplication_RUAP_LV2
+namespace ContactManager
 {
     public class BundleConfig
     {
